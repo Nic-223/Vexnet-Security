@@ -43,5 +43,5 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at <email address>.
+If you have any questions or suggestions, please feel free to contact me at discord Nic3#2064.
 
