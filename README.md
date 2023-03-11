@@ -21,7 +21,7 @@ To use the Vexnet Security Bot, invite it to your Discord server and run the !he
 
 To install the bot, clone the repository and install the required dependencies using pip:
 
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/Nic-223/Vexnet-Security.git
   
 cd <repository>
 
