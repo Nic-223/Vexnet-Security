@@ -11,7 +11,7 @@ import re
 
 bot = commands.Bot(intents=discord.Intents.all() , command_prefix= "!" , description='Vexnet Security')
 
-CONFIG_LOG = 1057323213350252625
+CONFIG_LOG = #DISCORCHANNELID
 
 
 with open("protectionlist.json", "r") as f:
